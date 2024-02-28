@@ -1,7 +1,6 @@
 # PLMS-Website
 THIS IS A WEBSITE FOR MY PROJECT OF PARKING LOT MANAGEMENT SYSTEM, THIS WEBSITE IS MADE WITH THE HELP OF XAMPP AND MYSQL,it helps in maintaing the parking and the managemment of the vehicles which come in the domain of the system, It can be used in many fields like in Institutions, malls and Housing complexes.
-
-                                                              HOMEPAGE
+                                                             HOMEPAGE 
 ![HOMEPAGE](https://github.com/SeitenTaisei1304/PLMS-Website/assets/103646045/79fbe211-4a0b-4a3a-98b9-d228b5ef0088)
                                                             ADMIN LOGIN
 ![Screenshot 2024-02-28 190009](https://github.com/SeitenTaisei1304/PLMS-Website/assets/103646045/7f9e68aa-f023-4209-85d1-5310b45f2826)
